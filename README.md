@@ -7,7 +7,7 @@
 #### can test consecutive images
 
 ------------------------------------------------------
-### report
+## Report
 
 #### Technology: 
 	Synopsys 32nm
@@ -25,4 +25,5 @@
 	408
 #### Energy/Image	
 	Ptot * Nclk * Tclk:     1,49 uJ/Image 
-#### Energy-Area Product:        3,36 (uJ*mm²)
+#### Energy-Area Product:        
+	3,36 (uJ*mm²)
